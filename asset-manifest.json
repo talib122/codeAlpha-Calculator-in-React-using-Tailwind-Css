@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/codeAlpha-Calculator-in-React-using-Tailwind-Css/static/css/main.2fdcf2ea.css",
+    "main.js": "/codeAlpha-Calculator-in-React-using-Tailwind-Css/static/js/main.ff1325f5.js",
+    "static/js/453.83bdee10.chunk.js": "/codeAlpha-Calculator-in-React-using-Tailwind-Css/static/js/453.83bdee10.chunk.js",
+    "static/media/logo.svg": "/codeAlpha-Calculator-in-React-using-Tailwind-Css/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/codeAlpha-Calculator-in-React-using-Tailwind-Css/index.html",
+    "main.2fdcf2ea.css.map": "/codeAlpha-Calculator-in-React-using-Tailwind-Css/static/css/main.2fdcf2ea.css.map",
+    "main.ff1325f5.js.map": "/codeAlpha-Calculator-in-React-using-Tailwind-Css/static/js/main.ff1325f5.js.map",
+    "453.83bdee10.chunk.js.map": "/codeAlpha-Calculator-in-React-using-Tailwind-Css/static/js/453.83bdee10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fdcf2ea.css",
+    "static/js/main.ff1325f5.js"
+  ]
+}
